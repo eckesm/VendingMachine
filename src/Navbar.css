@@ -1,0 +1,33 @@
+.Navbar {
+	position: absolute;
+	top: 25px;
+	left: 10px;
+}
+
+.Navbar a {
+	padding: 10px;
+	color: pink;
+	font-size: 1.5rem;
+	background-color: rgba(0, 0, 0, .25);
+	transition: 500ms;
+	border: 1px solid black;
+	border-radius: 5%;
+	text-decoration: none;
+	margin: 5px;
+}
+
+.Navbar a:hover {
+	color: rgba(0, 0, 0, .75);
+	background-color: pink;
+}
+
+.Navbar a.active {
+	font-weight: bold;
+	background-color: rgba(0, 0, 0, .5);
+	color: rgb(255, 143, 161);
+}
+
+/* .Navbar a.active:hover {
+	color: rgba(0, 0, 0, .75);
+	background-color: rgb(255, 143, 161);
+} */

@@ -1,0 +1,27 @@
+.Aquavit {
+	height: 100vh;
+	width: 100vw;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.fz1wbhvDf7tO17x3cM45XAHaE8%26pid%3DApi&f=1");
+	background-size: cover;
+}
+
+.Aquavit-container {
+	display: block;
+}
+
+.Aquavit-heading {
+	font-size: 5rem;
+	color: pink;
+	text-shadow: 2px 2px 4px black;
+	margin: 0px;
+}
+
+.Aquavit-text {
+	font-size: 2.5rem;
+	color: pink;
+	text-shadow: 2px 2px 4px black;
+	margin: 0px;
+}

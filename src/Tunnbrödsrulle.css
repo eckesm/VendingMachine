@@ -1,0 +1,15 @@
+.Tunnbrödsrulle {
+	height: 100vh;
+	width: 100vw;
+	background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fblogg.vinkocken.se%2Fwp-content%2Fuploads%2F2011%2F10%2FIMG_7105.jpg&f=1&nofb=1");
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Tunnbrödsrulle-heading{
+    font-size: 5rem;
+    color: pink;
+    text-shadow: 2px 2px 4px black;
+}
